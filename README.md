@@ -3,11 +3,6 @@ Matrix Solitaire in SFML
 From the rules found here:
 http://spoiledflushgames.com/matrix-solitaire/
 
-# Solitaire
-Matrix Solitaire in SFML
-From the rules found here:
-http://spoiledflushgames.com/matrix-solitaire/
-
 
 Game Play:  For this game, you have to imagine a 3X3 grid of cards, sort of like an invisible tic-tac-toe board.  There are effectively nine slots you can play to, but you won’t be able to see them so much until you’ve already played a card there. If you are incapable of all this fancy imagining, download and print the play mat. So you draw cards and play them one at a time to the grid.  The row farthest from you is the top of the grid and the row closest to you is the bottom of the grid.  All these cards have “weight” to them, meaning you must play the cards to the bottom grid, or directly above another card. Cards cannot simply “float” in the air (except for Hearts, which we’ll get to later.)
 
